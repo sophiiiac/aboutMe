@@ -13,7 +13,7 @@ struct ContentView: View {
     @State private var musicAlert = false
     @State private var gameAlert = false
     @State private var clothesAlert = false
-    
+    //hi
     
     var body: some View {
         
